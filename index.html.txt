@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Enchanted Wings</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🦋 Enchanted Wings: Marvels of Butterfly Species</h1>
+  </header>
+
+  <section class="gallery">
+    <div class="card">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Monarch_butterfly_Danaus_plexippus.jpg" alt="Monarch Butterfly">
+      <h2>Monarch</h2>
+      <p>Known for its amazing migration journey.</p>
+    </div>
+
+    <div class="card">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_Morpho_Butterfly.jpg" alt="Blue Morpho Butterfly">
+      <h2>Blue Morpho</h2>
+      <p>Shiny blue wings that reflect light beautifully.</p>
+    </div>
+
+    <div class="card">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Swallowtail_Butterfly.jpg" alt="Swallowtail">
+      <h2>Swallowtail</h2>
+      <p>Recognizable by the tail-like extensions of its wings.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Satish | Enchanted Wings Project</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
